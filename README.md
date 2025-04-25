@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aadish Sonawane</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack developer, constantly exploring new technologies and best practices</h3>
 
-- 🌱 I’m currently learning **fullstack Web Development, mastering both frontend and backend technologies to build complete, scalable web applications.**
+- 🌱 I’m currently mastering **full-stack web development**, with a strong focus on **both frontend and backend technologies** to build scalable, efficient web applications.
 
-- 💬 Ask me about **full-stack web development, project architecture, and best practices in coding and technology.**
+- 💻 I'm also diving deep into **project architecture**, **design patterns**, **API management**, and **dev practices** to build high-performance systems.
 
-- 📫 How to reach me **aadishpcs@gmail.com**
+- 🚀 I’m passionate about **competitive programming**, **data structures & algorithms (DSA)**, **problem-solving**, and **system design**.
+
+- 💬 Ask me about **full-stack web development**, **API integration**, **project architecture**, **system design**, **best coding practices**, **competitive programming**, and **technology trends**.
+
+- 📫 You can reach me at **aadishpcs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
