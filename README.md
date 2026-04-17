@@ -35,8 +35,8 @@ Building scalable full-stack systems and experimenting with AI agents, workflows
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/> -->
+<!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge"/>
 </p>
